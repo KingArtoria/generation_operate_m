@@ -1,0 +1,13 @@
+* {
+  animation-duration: 1s;
+  animation-name: fide;
+}
+@keyframes fide {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
